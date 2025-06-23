@@ -1,53 +1,62 @@
 # Hi, I'm Osman 👋
 
-Welcome to my GitHub profile!  
-I'm passionate about web and mobile development, always eager to learn and share new things. Here you'll find my latest projects, code experiments, and problem-solving journeys.
+Welcome to my GitHub!  
+I'm a **Web & Mobile Developer** who loves to learn modern technologies and build awesome digital products. Whether it's crafting clean UIs, solving real-world problems, or exploring new stacks — I'm always creating, improving, and leveling up. 🚀
 
 ---
 
-## 🚀 Top Projects
+## 🔥 Featured Projects
 
-Here are some of my most notable repositories:
-
-- 🎯 **[JavaScript-Assignments](https://github.com/osmanbey918/JavaScript-Assignments)**  
-  Sharpening my JavaScript skills through practical assignments and exercises.
-
-- ⚛️ **[react-practice](https://github.com/osmanbey918/react-practice)**  
-  Hands-on React practice projects, showcasing component-based development.
-
-- 📱 **[react-native-development](https://github.com/osmanbey918/react-native-development)**  
-  Exploring mobile app development with React Native.
-
-- 🧮 **[LeetCode-Problem-Solving-Practice](https://github.com/osmanbey918/LeetCode-Problem-Solving-Practice)**  
-  My journey through algorithm challenges and coding interview prep.
-
-- 📦 **[courier-management-system](https://github.com/osmanbey918/courier-management-system)**  
-  A web app for managing courier deliveries.  
-  [Live Demo](https://courier-management-system-iota.vercel.app)
-
-- 🌱 **[React-Assignment](https://github.com/osmanbey918/React-Assignment)**  
-  Assignments and mini-projects using React.
-
-- 🔥 **[feedsApp-with-firebase](https://github.com/osmanbey918/feedsApp-with-firebase)**  
-  Social feeds application powered by Firebase backend and modern JS.
-
-- 🏆 **[final-hackathon-SMIT](https://github.com/osmanbey918/final-hackathon-SMIT)**  
-  My hackathon project for SMIT.
+Take a look at some of the projects I've enjoyed building:
 
 ---
 
-## ⭐ About Me
-
-- 💻 Currently working with JavaScript, React, and React Native
-- 📚 Always learning new tools and frameworks
-- 💬 Open to collaboration and new opportunities
+### 🧠 [AiTechBlog](https://github.com/osmanbey918/AiTechBlog)  
+A modern AI and tech blog built with Next.js and Tailwind CSS.  
+![AiTechBlog Screenshot](./public/home-ss.png)
 
 ---
 
-## 📫 Get in Touch
+### 🚚 [Courier Management System](https://github.com/osmanbey918/courier-management-system)  
+Web app for managing courier deliveries efficiently.  
+🌐 [Live Demo](https://courier-management-system-iota.vercel.app)  
+![Courier Screenshot](./public/courierX.png)
 
-- GitHub: [osmanbey918](https://github.com/osmanbey918)
-- (Add your email or LinkedIn here if you want)
+---
+
+<!-- ### 📱 [Feeds App with Firebase](https://github.com/osmanbey918/feedsApp-with-firebase)  
+A lightweight social feeds app powered by Firebase backend.  
+<!-- ![Feeds App Screenshot](your-image-link) -->
+
+--- -->
+
+### 🎉 [Event Management System](https://github.com/osmanbey918/final-hackathon-SMIT)  
+Event management platform built using the MERN stack.  
+<!-- ![Event Screenshot](your-image-link) -->
+
+---
+
+### ⚡ [Hackathon Project](https://github.com/osmanbey918/Hackathon)  
+Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, Storage).  
+<!-- ![Hackathon Screenshot](your-image-link) -->
+
+---
+
+## 👨‍💻 About Me
+
+- 💡 Passionate about **modern web and mobile technologies**
+- 🔥 Currently working with: **JavaScript**, **React**, **React Native**
+- 🎯 Always improving my skills, one project at a time
+- 🤝 Open to new ideas, collaborations, and freelance work
+- 🧠 Love building tech that solves real problems — especially with AI & Firebase
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: [@osmanbey918](https://github.com/osmanbey918)
+<!-- - LinkedIn: *(add your LinkedIn profile here)* -->
+- Email: *(usman918khan@gmail.com)*
 
 ---
 
@@ -57,6 +66,6 @@ Here are some of my most notable repositories:
 ---
 
 <!--
-⚠️ This list includes your top 10 projects (of 20 total).  
-See all at: https://github.com/osmanbey918?tab=repositories
+⚠️ Tip: Upload project screenshots and replace the placeholder image links above.
+See all my repos here: https://github.com/osmanbey918?tab=repositories
 -->
