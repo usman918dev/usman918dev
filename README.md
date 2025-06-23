@@ -1,4 +1,4 @@
-# Hi, I'm Osman 👋
+# Hi, I'm Muhammad Usman 👋
 
 Welcome to my GitHub!  
 I'm a **Web & Mobile Developer** who loves to learn modern technologies and build awesome digital products. Whether it's crafting clean UIs, solving real-world problems, or exploring new stacks — I'm always creating, improving, and leveling up. 🚀
