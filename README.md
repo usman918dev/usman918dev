@@ -54,8 +54,7 @@ Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, S
 
 ## 📫 Let’s Connect
 
-- GitHub: [@osmanbey918](https://github.com/osmanbey918)
-<!-- - LinkedIn: *(add your LinkedIn profile here)* -->
+- GitHub: [@osmanbey918](https://github.com/musman918)
 - Email: *(usman918khan@gmail.com)*
 
 ---
