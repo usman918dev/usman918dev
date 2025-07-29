@@ -66,6 +66,7 @@ Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, S
 > — Cory House
 
 ---
+[Live Demo](https://www.techolyze.com)
 
 <!--
 ⚠️ Tip: Upload project screenshots and replace the placeholder image links above.
