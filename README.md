@@ -13,6 +13,8 @@ Take a look at some of the projects I've enjoyed building:
 
 ### 🧠 [AiTechBlog](https://github.com/osmanbey918/AiTechBlog)  
 A modern AI and tech blog built with Next.js and Tailwind CSS.  
+🌐 [Live Demo](https://www.techolyze.com)  
+
 ![AiTechBlog Screenshot](./public/home-ss.png)
 
 ---
@@ -54,7 +56,7 @@ Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, S
 
 ## 📫 Let’s Connect
 
-- GitHub: [@osmanbey918](https://github.com/musman918)
+- GitHub: [@osmanbey918](https://github.com/osmanbey918)
 - Email: *(usman918khan@gmail.com)*
 
 ---
