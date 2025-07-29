@@ -12,8 +12,9 @@ Take a look at some of the projects I've enjoyed building:
 ---
 
 ### 🧠 [AiTechBlog](https://github.com/osmanbey918/AiTechBlog)  
-A modern AI and tech blog built with Next.js and Tailwind CSS.  
-🌐 [Live Demo](https://www.techolyze.com)  
+A modern AI and tech blog built with Next.js and Tailwind CSS.    
+# 🧠 [Live Demo](https://www.techolyze.com)  
+
 
 ![AiTechBlog Screenshot](./public/home-ss.png)
 
