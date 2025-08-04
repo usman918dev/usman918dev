@@ -8,8 +8,8 @@
   <a href="mailto:usman918khan@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-usman918khan%40gmail.com-blue?style=flat-square&logo=gmail">
   </a>
-  <a href="https://www.techolyze.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Techolyze-blueviolet?style=flat-square">
+  <a href="https://usman918dev.github.io/portfolio_re/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ME-blueviolet?style=flat-square">
   </a>
 </p>
 
@@ -33,14 +33,14 @@ I'm a **MERN & Next.js developer** with a strong passion for solving real-world 
 
 ### 🧠 [AiTechBlog](https://github.com/usman918dev/AiTechBlog)  
 A modern AI & tech blog built using **Next.js**, **Tailwind CSS**, and **Tiptap** for rich Markdown editing.  
-🔗 [Live Demo](https://www.techolyze.com)  
-![AiTechBlog Screenshot](./public/home-ss.png)
+🔗 [Visit](https://www.techolyze.com)  
+![Screenshot](./public/techolyze.jpg)
 
 ---
 
 ### 🚚 [Courier Management System](https://github.com/usman918dev/courier-management-system)  
 Courier delivery platform built using **MERN stack** with a focus on admin control and real-time updates.  
-🔗 [Live Demo](https://courier-management-system-iota.vercel.app)  
+🔗 [Visit](https://courier-management-system-iota.vercel.app)  
 ![Courier Screenshot](./public/courierX.png)
 
 ---
@@ -75,7 +75,7 @@ Hackathon-ready frontend using **React**, **Redux Toolkit**, and **Firebase Auth
 ## 📫 Let's Connect
 
 - 📧 Email: [usman918khan@gmail.com](mailto:usman918khan@gmail.com)  
-- 🌐 Portfolio: [techolyze.com](https://www.techolyze.com)  
+- 🌐 Portfolio: [usman918dev.com](https://usman918dev.github.io/portfolio_re/)  
 - 🧑‍💻 GitHub: [@usman918dev](https://github.com/usman918dev)
 
 ---
