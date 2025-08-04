@@ -1,59 +1,82 @@
-# Hi, I'm Muhammad Usman 👋
+<h1 align="center">Hi, I'm Muhammad Usman 👋</h1>
+<p align="center">A Full-Stack Web & Mobile Developer | JavaScript Enthusiast | API Builder | MERN/NEXT.JS Developer 🔥</p>
 
-Welcome to my GitHub!  
-I'm a **Web & Mobile Developer** who loves to learn modern technologies and build awesome digital products. Whether it's crafting clean UIs, solving real-world problems, or exploring new stacks — I'm always creating, improving, and leveling up. 🚀
+<p align="center">
+  <a href="https://github.com/usman918dev?tab=repositories">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/usman918dev?style=social">
+  </a>
+  <a href="mailto:usman918khan@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-usman918khan%40gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.techolyze.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Techolyze-blueviolet?style=flat-square">
+  </a>
+</p>
 
 ---
 
-## 🔥 Featured Projects
+## 🧠 About Me
 
-Take a look at some of the projects I've enjoyed building:
+I'm a **MERN & Next.js developer** with a strong passion for solving real-world problems using modern technologies. I specialize in creating full-stack applications, building REST APIs, and crafting responsive UIs that deliver great user experiences.
+
+### What I do:
+- 🔨 Build modern full-stack apps using **React, Node.js, and MongoDB**
+- ⚡ Seamlessly implement **REST APIs** from scratch
+- 🔥 Use **Firebase** for real-time features, authentication, and storage
+- 🧠 Apply strong **problem-solving** and **analytical thinking**
+- 🌍 Deploy full apps to platforms like **Vercel** and **Firebase Hosting**
+- 💬 Open to freelance, remote roles, and exciting collaborations
 
 ---
 
-### 🧠 [AiTechBlog](https://github.com/osmanbey918/AiTechBlog)  
-A modern AI and tech blog built with Next.js and Tailwind CSS.    
-### 🧠 [Live Demo](https://www.techolyze.com)  
+## 🚀 Featured Projects
 
-
+### 🧠 [AiTechBlog](https://github.com/usman918dev/AiTechBlog)  
+A modern AI & tech blog built using **Next.js**, **Tailwind CSS**, and **Tiptap** for rich Markdown editing.  
+🔗 [Live Demo](https://www.techolyze.com)  
 ![AiTechBlog Screenshot](./public/home-ss.png)
 
 ---
 
-### 🚚 [Courier Management System](https://github.com/osmanbey918/courier-management-system)  
-Web app for managing courier deliveries efficiently.  
-🌐 [Live Demo](https://courier-management-system-iota.vercel.app)  
+### 🚚 [Courier Management System](https://github.com/usman918dev/courier-management-system)  
+Courier delivery platform built using **MERN stack** with a focus on admin control and real-time updates.  
+🔗 [Live Demo](https://courier-management-system-iota.vercel.app)  
 ![Courier Screenshot](./public/courierX.png)
 
 ---
 
-
---- -->
-
-### 🎉 [Event Management System](https://github.com/osmanbey918/final-hackathon-SMIT)  
-Event management platform built using the MERN stack.  
+### 🎉 [Event Management System](https://github.com/usman918dev/final-hackathon-SMIT)  
+Event organizer app built with **MERN**, featuring role-based access and clean CRUD flows.
 
 ---
 
-### ⚡ [Hackathon Project](https://github.com/osmanbey918/Hackathon)  
-Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, Storage).  
+### ⚡ [Hackathon App](https://github.com/usman918dev/Hackathon)  
+Hackathon-ready frontend using **React**, **Redux Toolkit**, and **Firebase Auth + Firestore**.
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack & Tools
 
-- 💡 Passionate about **modern web and mobile technologies**
-- 🔥 Currently working with: **JavaScript**, **React**, **React Native**
-- 🎯 Always improving my skills, one project at a time
-- 🤝 Open to new ideas, collaborations, and freelance work
-- 🧠 Love building tech that solves real problems — especially with AI & Firebase
+### 🚀 Frontend
+`HTML` · `CSS` · `JavaScript (ES6+)` · `React` · `Next.js` · `React Router` · `Tailwind CSS` · `Tiptap Editor`
+
+### 🔧 Backend
+`Node.js` · `Express.js` · `MongoDB` · `Firebase (Auth, Firestore, Storage)` · `REST API`
+
+### ⚙️ Tools & Platforms
+`Git & GitHub` · `Vercel` · `Postman` · `VS Code` 
+
+### ⚡Libraries & Api's
+`Redux Toolkit` · `Mongoose` · `JWT` · `React Markdown` · `Nodemailer` 
 
 ---
 
-## 📫 Let’s Connect
 
-- GitHub: [@osmanbey918](https://github.com/usman-918)
-- Email: *(usman918khan@gmail.com)*
+## 📫 Let's Connect
+
+- 📧 Email: [usman918khan@gmail.com](mailto:usman918khan@gmail.com)  
+- 🌐 Portfolio: [techolyze.com](https://www.techolyze.com)  
+- 🧑‍💻 GitHub: [@usman918dev](https://github.com/usman918dev)
 
 ---
 
@@ -61,6 +84,8 @@ Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, S
 > — Cory House
 
 ---
-[Live Demo](https://www.techolyze.com)
 
-
+<!--
+📌 Tip: Replace the image paths with hosted screenshots if not using GitHub Pages.
+🚀 Make sure to keep this updated as you grow!
+-->
