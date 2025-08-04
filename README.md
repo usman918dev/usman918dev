@@ -55,20 +55,125 @@ Hackathon-ready frontend using **React**, **Redux Toolkit**, and **Firebase Auth
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<h3>🛠️ Tech Stack & Tools</h3>
 
-### 🚀 Frontend
-`HTML` · `CSS` · `JavaScript (ES6+)` · `React` · `Next.js` · `React Router` · `Tailwind CSS` · `Tiptap Editor`
+<h4>🚀 Frontend</h4>
+<table>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Tiptap-5F45BA?style=flat&logo=tiptap&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### 🔧 Backend
-`Node.js` · `Express.js` · `MongoDB` · `Firebase (Auth, Firestore, Storage)` · `REST API`
+<h4>🔧 Backend</h4>
+<table>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;" colspan="4" align="center">
+      <img src="https://img.shields.io/badge/REST%20API-006400?style=flat" />
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Tools & Platforms
-`Git & GitHub` · `Vercel` · `Postman` · `VS Code` · `Lighthouse` · `Search Console` 
+<h4>⚙️ Tools & Platforms</h4>
+<table>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Search_Console-4285F4?style=flat&logo=google&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;"></td>
+  </tr>
+</table>
 
-### ⚡Libraries & APIs
-`Redux Toolkit` · `Mongoose` · `JWT` · `React Markdown` · `Nodemailer` 
-`Chart.js` · `YAML` · `React Scroll` 
+<h4>⚡ Libraries & APIs</h4>
+<table>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Mongoose-800000?style=flat&logo=mongoose&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Nodemailer-3C3C3C?style=flat&logo=nodemailer&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/React_Markdown-61DAFB?style=flat&logo=react&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white" />
+    </td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      <img src="https://img.shields.io/badge/React_Scroll-000000?style=flat&logo=react&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
