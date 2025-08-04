@@ -64,10 +64,11 @@ Hackathon-ready frontend using **React**, **Redux Toolkit**, and **Firebase Auth
 `Node.js` · `Express.js` · `MongoDB` · `Firebase (Auth, Firestore, Storage)` · `REST API`
 
 ### ⚙️ Tools & Platforms
-`Git & GitHub` · `Vercel` · `Postman` · `VS Code` 
+`Git & GitHub` · `Vercel` · `Postman` · `VS Code` · `Lighthouse` · `Search Console` 
 
-### ⚡Libraries & Api's
+### ⚡Libraries & APIs
 `Redux Toolkit` · `Mongoose` · `JWT` · `React Markdown` · `Nodemailer` 
+`Chart.js` · `YAML` · `React Scroll` 
 
 ---
 
