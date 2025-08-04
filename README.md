@@ -27,21 +27,16 @@ Web app for managing courier deliveries efficiently.
 
 ---
 
-<!-- ### 📱 [Feeds App with Firebase](https://github.com/osmanbey918/feedsApp-with-firebase)  
-A lightweight social feeds app powered by Firebase backend.  
-<!-- ![Feeds App Screenshot](your-image-link) -->
 
 --- -->
 
 ### 🎉 [Event Management System](https://github.com/osmanbey918/final-hackathon-SMIT)  
 Event management platform built using the MERN stack.  
-<!-- ![Event Screenshot](your-image-link) -->
 
 ---
 
 ### ⚡ [Hackathon Project](https://github.com/osmanbey918/Hackathon)  
 Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, Storage).  
-<!-- ![Hackathon Screenshot](your-image-link) -->
 
 ---
 
@@ -57,7 +52,7 @@ Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, S
 
 ## 📫 Let’s Connect
 
-- GitHub: [@osmanbey918](https://github.com/osmanbey918)
+- GitHub: [@osmanbey918](https://github.com/usman-918)
 - Email: *(usman918khan@gmail.com)*
 
 ---
@@ -68,7 +63,4 @@ Hackathon app built using React, Redux Toolkit, and Firebase (Auth, Firestore, S
 ---
 [Live Demo](https://www.techolyze.com)
 
-<!--
-⚠️ Tip: Upload project screenshots and replace the placeholder image links above.
-See all my repos here: https://github.com/osmanbey918?tab=repositories
--->
+
